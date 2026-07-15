@@ -1,0 +1,60 @@
+name: Sync Lottery Results to CDN
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch latest results
+        run: |
+          curl -sS -o results.json \
+            -H "User-Agent: Mozilla/5.0" \
+            https://marksixresults.com/results.json
+
+          curl -sS -o results200.json \
+            -H "User-Agent: Mozilla/5.0" \
+            https://marksixresults.com/results200.json
+
+      - name: Check for changes
+        id: check
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          git config user.name "marksix-sync-bot"
+          git config user.email "bot@marksix-results"
+          git commit -m "sync: update lottery results $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
+
+      - name: Create Release
+        if: steps.check.outputs.changed == 'true'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: data-$(date -u '+%Y%m%d%H%M')
+          name: "Results Data $(date -u '+%Y-%m-%d %H:%M UTC')"
+          body: Auto-synced lottery results from marksixresults.com
+          files: |
+            results.json
+            results200.json
+          make_latest: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
