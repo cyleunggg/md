@@ -1,17 +1,17 @@
 {
     "latestDraw": {
-        "drawNumber": "26/080",
-        "drawDate": "2026-07-25",
-        "weekday": "星期六",
+        "drawNumber": "26/081",
+        "drawDate": "2026-07-28",
+        "weekday": "星期二",
         "numbers": [
-            "5",
+            "4",
             "7",
-            "12",
-            "26",
-            "31",
-            "42"
+            "14",
+            "20",
+            "21",
+            "30"
         ],
-        "specialNumber": "11",
+        "specialNumber": "34",
         "prizeInfo": [
             {
                 "name": "頭獎",
@@ -20,37 +20,51 @@
             },
             {
                 "name": "二獎",
-                "amount": "$1,175,290",
-                "tickets": "1注中獎, 每注各分 $1,175,290"
+                "amount": "累積獎金",
+                "tickets": "沒有中獎注數"
             },
             {
                 "name": "三獎",
-                "amount": "$3,133,200",
-                "tickets": "140注中獎, 每注各分 $22,380"
+                "amount": "$4,515,825",
+                "tickets": "142.5注中獎, 每注各分 $31,690"
             },
             {
                 "name": "四獎",
-                "amount": "$3,595,200",
-                "tickets": "374.5注中獎, 每注各分 $9,600"
+                "amount": "$2,243,520",
+                "tickets": "233.7注中獎, 每注各分 $9,600"
             },
             {
                 "name": "五獎",
-                "amount": "$4,098,240",
-                "tickets": "6,403.5注中獎, 每注各分 $640"
+                "amount": "$4,282,944",
+                "tickets": "6,692.1注中獎, 每注各分 $640"
             },
             {
                 "name": "六獎",
-                "amount": "$2,920,864",
-                "tickets": "9,127.7注中獎, 每注各分 $320"
+                "amount": "$2,031,904",
+                "tickets": "6,349.7注中獎, 每注各分 $320"
             },
             {
                 "name": "七獎",
-                "amount": "$3,449,004",
-                "tickets": "86,225.1注中獎, 每注各分 $40"
+                "amount": "$4,082,716",
+                "tickets": "102,067.9注中獎, 每注各分 $40"
             }
         ]
     },
     "historyDraws": [
+        {
+            "drawNumber": "26/081",
+            "drawDate": "2026-07-28",
+            "weekday": "星期二",
+            "numbers": [
+                "4",
+                "7",
+                "14",
+                "20",
+                "21",
+                "30"
+            ],
+            "specialNumber": "34"
+        },
         {
             "drawNumber": "26/080",
             "drawDate": "2026-07-25",
@@ -176,30 +190,16 @@
                 "38"
             ],
             "specialNumber": "44"
-        },
-        {
-            "drawNumber": "26/071",
-            "drawDate": "2026-07-02",
-            "weekday": "星期四",
-            "numbers": [
-                "5",
-                "17",
-                "26",
-                "31",
-                "34",
-                "46"
-            ],
-            "specialNumber": "43"
         }
     ],
     "upcomingDraws": [
         {
-            "drawNumber": "26/081",
-            "drawDate": "2026-07-28",
-            "weekday": "星期二",
-            "estimatedPrize": "$18,000,000",
-            "ticketDeadline": "2026-07-28 21:15"
+            "drawNumber": "26/082",
+            "drawDate": "2026-07-30",
+            "weekday": "星期四",
+            "estimatedPrize": "$25,000,000",
+            "ticketDeadline": "2026-07-30 21:15"
         }
     ],
-    "lastUpdated": "2026-07-27 20:51:05"
+    "lastUpdated": "2026-07-28 11:51:06"
 }
