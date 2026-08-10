@@ -1,6 +1,62 @@
 {
-    "lastUpdated": "2026-07-30 10:08:08",
+    "lastUpdated": "2026-08-10 18:28:09",
     "historyDraws": [
+        {
+            "drawNumber": "26/086",
+            "drawDate": "2026-08-08",
+            "weekday": "星期六",
+            "numbers": [
+                "1",
+                "3",
+                "7",
+                "31",
+                "32",
+                "49"
+            ],
+            "specialNumber": "47"
+        },
+        {
+            "drawNumber": "26/085",
+            "drawDate": "2026-08-06",
+            "weekday": "星期四",
+            "numbers": [
+                "13",
+                "24",
+                "29",
+                "30",
+                "42",
+                "48"
+            ],
+            "specialNumber": "3"
+        },
+        {
+            "drawNumber": "26/084",
+            "drawDate": "2026-08-04",
+            "weekday": "星期二",
+            "numbers": [
+                "4",
+                "11",
+                "13",
+                "16",
+                "31",
+                "33"
+            ],
+            "specialNumber": "38"
+        },
+        {
+            "drawNumber": "26/083",
+            "drawDate": "2026-08-01",
+            "weekday": "星期六",
+            "numbers": [
+                "1",
+                "7",
+                "16",
+                "22",
+                "32",
+                "37"
+            ],
+            "specialNumber": "23"
+        },
         {
             "drawNumber": "26/082",
             "drawDate": "2026-07-30",
@@ -2744,62 +2800,6 @@
                 "24"
             ],
             "specialNumber": "37"
-        },
-        {
-            "drawNumber": "25/011",
-            "drawDate": "2025-02-02",
-            "weekday": "星期日",
-            "numbers": [
-                "14",
-                "18",
-                "30",
-                "36",
-                "40",
-                "42"
-            ],
-            "specialNumber": "1"
-        },
-        {
-            "drawNumber": "25/010",
-            "drawDate": "2025-01-25",
-            "weekday": "星期六",
-            "numbers": [
-                "7",
-                "14",
-                "19",
-                "31",
-                "36",
-                "45"
-            ],
-            "specialNumber": "24"
-        },
-        {
-            "drawNumber": "25/009",
-            "drawDate": "2025-01-23",
-            "weekday": "星期四",
-            "numbers": [
-                "3",
-                "6",
-                "24",
-                "25",
-                "34",
-                "37"
-            ],
-            "specialNumber": "45"
-        },
-        {
-            "drawNumber": "25/008",
-            "drawDate": "2025-01-21",
-            "weekday": "星期二",
-            "numbers": [
-                "16",
-                "22",
-                "33",
-                "43",
-                "48",
-                "49"
-            ],
-            "specialNumber": "8"
         }
     ]
 }
