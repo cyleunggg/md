@@ -15,38 +15,38 @@
         "prizeInfo": [
             {
                 "name": "頭獎",
-                "amount": "0",
-                "tickets": "沒有中獎注數"
+                "amount": "沒有中獎",
+                "tickets": "沒有中獎"
             },
             {
                 "name": "二獎",
-                "amount": "0",
+                "amount": "沒有中獎",
                 "tickets": "沒有中獎注數"
             },
             {
                 "name": "三獎",
-                "amount": "$120,840.00",
+                "amount": "$120,840",
                 "tickets": "35.5注中獎"
             },
             {
                 "name": "四獎",
-                "amount": "$9,600.00",
-                "tickets": "104.5注中獎"
+                "amount": "$9,600",
+                "tickets": "固定派彩"
             },
             {
                 "name": "五獎",
-                "amount": "$640.00",
-                "tickets": "2,208.0注中獎"
+                "amount": "$640",
+                "tickets": "固定派彩"
             },
             {
                 "name": "六獎",
-                "amount": "$320.00",
-                "tickets": "3,257.9注中獎"
+                "amount": "$320",
+                "tickets": "固定派彩"
             },
             {
                 "name": "七獎",
-                "amount": "$40.00",
-                "tickets": "45,712.2注中獎"
+                "amount": "$40",
+                "tickets": "固定派彩"
             }
         ]
     },
@@ -197,9 +197,9 @@
             "drawNumber": "26/089",
             "drawDate": "2026-08-15",
             "weekday": "星期六",
-            "estimatedPrize": "$8,000,000",
+            "estimatedPrize": "$18,000,000",
             "ticketDeadline": "2026-08-15 21:15"
         }
     ],
-    "lastUpdated": "2026-08-14 12:33:40"
+    "lastUpdated": "2026-08-14 14:24:38"
 }
