@@ -20,13 +20,13 @@
             },
             {
                 "name": "二獎",
-                "amount": "沒有中獎",
-                "tickets": "沒有中獎注數"
+                "amount": "$864,680",
+                "tickets": "2.0注中獎"
             },
             {
                 "name": "三獎",
-                "amount": "沒有中獎",
-                "tickets": "沒有中獎注數"
+                "amount": "$65,880",
+                "tickets": "70.0注中獎"
             },
             {
                 "name": "四獎",
@@ -194,12 +194,12 @@
     ],
     "upcomingDraws": [
         {
-            "drawNumber": "26/089",
-            "drawDate": "2026-08-15",
-            "weekday": "星期六",
-            "estimatedPrize": "$18,000,000",
-            "ticketDeadline": "2026-08-15 21:15"
+            "drawNumber": "26/090",
+            "drawDate": "2026-08-18",
+            "weekday": "星期二",
+            "estimatedPrize": "$24,000,000",
+            "ticketDeadline": "2026-08-18 21:15"
         }
     ],
-    "lastUpdated": "2026-08-15 21:43:05"
+    "lastUpdated": "2026-08-15 22:30:25"
 }
