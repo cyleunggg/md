@@ -1,17 +1,17 @@
 {
     "latestDraw": {
-        "drawNumber": "26/089",
-        "drawDate": "2026-08-15",
-        "weekday": "星期六",
+        "drawNumber": "26/090",
+        "drawDate": "2026-08-18",
+        "weekday": "星期二",
         "numbers": [
-            "4",
-            "16",
-            "25",
-            "27",
-            "28",
-            "33"
+            "7",
+            "8",
+            "9",
+            "14",
+            "39",
+            "41"
         ],
-        "specialNumber": "14",
+        "specialNumber": "49",
         "prizeInfo": [
             {
                 "name": "頭獎",
@@ -20,13 +20,13 @@
             },
             {
                 "name": "二獎",
-                "amount": "$864,680",
-                "tickets": "2.0注中獎"
+                "amount": "沒有中獎",
+                "tickets": "沒有中獎注數"
             },
             {
                 "name": "三獎",
-                "amount": "$65,880",
-                "tickets": "70.0注中獎"
+                "amount": "沒有中獎",
+                "tickets": "沒有中獎注數"
             },
             {
                 "name": "四獎",
@@ -51,6 +51,20 @@
         ]
     },
     "historyDraws": [
+        {
+            "drawNumber": "26/090",
+            "drawDate": "2026-08-18",
+            "weekday": "星期二",
+            "numbers": [
+                "7",
+                "8",
+                "9",
+                "14",
+                "39",
+                "41"
+            ],
+            "specialNumber": "49"
+        },
         {
             "drawNumber": "26/089",
             "drawDate": "2026-08-15",
@@ -176,20 +190,6 @@
                 "47"
             ],
             "specialNumber": "8"
-        },
-        {
-            "drawNumber": "26/077",
-            "drawDate": "2026-07-16",
-            "weekday": "星期四",
-            "numbers": [
-                "18",
-                "21",
-                "26",
-                "30",
-                "32",
-                "44"
-            ],
-            "specialNumber": "27"
         }
     ],
     "upcomingDraws": [
@@ -201,5 +201,5 @@
             "ticketDeadline": "2026-08-18 21:15"
         }
     ],
-    "lastUpdated": "2026-08-16 23:00:39"
+    "lastUpdated": "2026-08-18 21:43:07"
 }
