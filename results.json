@@ -1,17 +1,17 @@
 {
     "latestDraw": {
-        "drawNumber": "26/092",
-        "drawDate": "2026-08-22",
-        "weekday": "星期六",
+        "drawNumber": "26/093",
+        "drawDate": "2026-08-25",
+        "weekday": "星期二",
         "numbers": [
-            "7",
-            "9",
-            "12",
+            "1",
+            "18",
+            "19",
             "25",
             "34",
-            "40"
+            "38"
         ],
-        "specialNumber": "29",
+        "specialNumber": "7",
         "prizeInfo": [
             {
                 "name": "頭獎",
@@ -20,13 +20,13 @@
             },
             {
                 "name": "二獎",
-                "amount": "$1,510,840",
-                "tickets": "1.0注中獎"
+                "amount": "沒有中獎",
+                "tickets": "沒有中獎注數"
             },
             {
                 "name": "三獎",
-                "amount": "$51,320",
-                "tickets": "78.5注中獎"
+                "amount": "沒有中獎",
+                "tickets": "沒有中獎注數"
             },
             {
                 "name": "四獎",
@@ -51,6 +51,20 @@
         ]
     },
     "historyDraws": [
+        {
+            "drawNumber": "26/093",
+            "drawDate": "2026-08-25",
+            "weekday": "星期二",
+            "numbers": [
+                "1",
+                "18",
+                "19",
+                "25",
+                "34",
+                "38"
+            ],
+            "specialNumber": "7"
+        },
         {
             "drawNumber": "26/092",
             "drawDate": "2026-08-22",
@@ -176,20 +190,6 @@
                 "30"
             ],
             "specialNumber": "34"
-        },
-        {
-            "drawNumber": "26/080",
-            "drawDate": "2026-07-25",
-            "weekday": "星期六",
-            "numbers": [
-                "5",
-                "7",
-                "12",
-                "26",
-                "31",
-                "42"
-            ],
-            "specialNumber": "11"
         }
     ],
     "upcomingDraws": [
@@ -201,5 +201,5 @@
             "ticketDeadline": "2026-08-25 21:15"
         }
     ],
-    "lastUpdated": "2026-08-24 23:00:55"
+    "lastUpdated": "2026-08-25 21:43:07"
 }
