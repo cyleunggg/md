@@ -15,18 +15,18 @@
         "prizeInfo": [
             {
                 "name": "頭獎",
-                "amount": "沒有中獎",
-                "tickets": "沒有中獎"
+                "amount": "$4,149,710",
+                "tickets": "7.0注中獎"
             },
             {
                 "name": "二獎",
-                "amount": "沒有中獎",
-                "tickets": "沒有中獎注數"
+                "amount": "$301,160",
+                "tickets": "3.0注中獎"
             },
             {
                 "name": "三獎",
-                "amount": "沒有中獎",
-                "tickets": "沒有中獎注數"
+                "amount": "$19,200",
+                "tickets": "432.5注中獎"
             },
             {
                 "name": "四獎",
@@ -201,5 +201,5 @@
             "ticketDeadline": "2026-08-29 21:15"
         }
     ],
-    "lastUpdated": "2026-08-29 21:43:06"
+    "lastUpdated": "2026-08-29 23:00:46"
 }
