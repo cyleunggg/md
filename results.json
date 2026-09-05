@@ -16,12 +16,12 @@
             {
                 "name": "頭獎",
                 "amount": "$4,149,710",
-                "tickets": "7.0注中獎"
+                "tickets": "7注中獎"
             },
             {
                 "name": "二獎",
                 "amount": "$301,160",
-                "tickets": "3.0注中獎"
+                "tickets": "3注中獎"
             },
             {
                 "name": "三獎",
@@ -194,12 +194,13 @@
     ],
     "upcomingDraws": [
         {
-            "drawNumber": "26/095",
-            "drawDate": "2026-08-29",
+            "drawNumber": "26/096",
+            "drawTitle": "ANN 六合彩50週年金多寶（第二期）",
+            "drawDate": "2026-09-05",
             "weekday": "星期六",
-            "estimatedPrize": "$32,000,000",
-            "ticketDeadline": "2026-08-29 21:15"
+            "estimatedPrize": "$228,000,000",
+            "ticketDeadline": "2026-09-05 21:15"
         }
     ],
-    "lastUpdated": "2026-09-03 23:00:48"
+    "lastUpdated": "2026-09-05 16:17:51"
 }
