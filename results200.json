@@ -1,6 +1,20 @@
 {
-    "lastUpdated": "2026-09-04 23:00:30",
+    "lastUpdated": "2026-09-05 23:00:26",
     "historyDraws": [
+        {
+            "drawNumber": "26/096",
+            "drawDate": "2026-09-05",
+            "weekday": "星期六",
+            "numbers": [
+                "9",
+                "18",
+                "26",
+                "30",
+                "33",
+                "45"
+            ],
+            "specialNumber": "28"
+        },
         {
             "drawNumber": "26/095",
             "drawDate": "2026-08-29",
@@ -2786,20 +2800,6 @@
                 "28"
             ],
             "specialNumber": "9"
-        },
-        {
-            "drawNumber": "25/021",
-            "drawDate": "2025-02-25",
-            "weekday": "星期二",
-            "numbers": [
-                "1",
-                "2",
-                "6",
-                "11",
-                "40",
-                "47"
-            ],
-            "specialNumber": "32"
         }
     ]
 }
