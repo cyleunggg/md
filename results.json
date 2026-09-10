@@ -15,18 +15,18 @@
         "prizeInfo": [
             {
                 "name": "頭獎",
-                "amount": "未公布",
-                "tickets": "未公布"
+                "amount": "$8,000,000",
+                "tickets": "1注中獎"
             },
             {
                 "name": "二獎",
-                "amount": "未公布",
-                "tickets": "未公布"
+                "amount": "-",
+                "tickets": "-"
             },
             {
                 "name": "三獎",
-                "amount": "0",
-                "tickets": "0注中獎"
+                "amount": "$56,810",
+                "tickets": "71.5注中獎"
             },
             {
                 "name": "四獎",
@@ -194,13 +194,13 @@
     ],
     "upcomingDraws": [
         {
-            "drawNumber": "26/098",
+            "drawNumber": "26/099",
             "drawTitle": "",
-            "drawDate": "2026-09-10",
-            "weekday": "星期四",
+            "drawDate": "2026-09-12",
+            "weekday": "星期六",
             "estimatedPrize": "$8,000,000",
-            "ticketDeadline": "2026-09-10 21:15"
+            "ticketDeadline": "2026-09-12 21:15"
         }
     ],
-    "lastUpdated": "2026-09-10 21:43:07"
+    "lastUpdated": "2026-09-10 23:00:34"
 }
