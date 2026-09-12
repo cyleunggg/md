@@ -1,32 +1,32 @@
 {
     "latestDraw": {
-        "drawNumber": "26/098",
-        "drawDate": "2026-09-10",
-        "weekday": "星期四",
+        "drawNumber": "26/099",
+        "drawDate": "2026-09-12",
+        "weekday": "星期六",
         "numbers": [
-            "22",
-            "23",
-            "31",
-            "32",
-            "35",
-            "45"
+            "9",
+            "18",
+            "24",
+            "33",
+            "40",
+            "47"
         ],
-        "specialNumber": "34",
+        "specialNumber": "11",
         "prizeInfo": [
             {
                 "name": "頭獎",
-                "amount": "$8,000,000",
-                "tickets": "1注中獎"
-            },
-            {
-                "name": "二獎",
                 "amount": "-",
                 "tickets": "-"
             },
             {
+                "name": "二獎",
+                "amount": "$752,820",
+                "tickets": "2注中獎"
+            },
+            {
                 "name": "三獎",
-                "amount": "$56,810",
-                "tickets": "71.5注中獎"
+                "amount": "$43,400",
+                "tickets": "92.5注中獎"
             },
             {
                 "name": "四獎",
@@ -51,6 +51,20 @@
         ]
     },
     "historyDraws": [
+        {
+            "drawNumber": "26/099",
+            "drawDate": "2026-09-12",
+            "weekday": "星期六",
+            "numbers": [
+                "9",
+                "18",
+                "24",
+                "33",
+                "40",
+                "47"
+            ],
+            "specialNumber": "11"
+        },
         {
             "drawNumber": "26/098",
             "drawDate": "2026-09-10",
@@ -176,31 +190,17 @@
                 "41"
             ],
             "specialNumber": "49"
-        },
-        {
-            "drawNumber": "26/089",
-            "drawDate": "2026-08-15",
-            "weekday": "星期六",
-            "numbers": [
-                "4",
-                "16",
-                "25",
-                "27",
-                "28",
-                "33"
-            ],
-            "specialNumber": "14"
         }
     ],
     "upcomingDraws": [
         {
-            "drawNumber": "26/099",
+            "drawNumber": "26/100",
             "drawTitle": "",
-            "drawDate": "2026-09-12",
-            "weekday": "星期六",
-            "estimatedPrize": "$8,000,000",
-            "ticketDeadline": "2026-09-12 21:15"
+            "drawDate": "2026-09-15",
+            "weekday": "星期二",
+            "estimatedPrize": "$13,000,000",
+            "ticketDeadline": "2026-09-15 21:15"
         }
     ],
-    "lastUpdated": "2026-09-10 23:00:34"
+    "lastUpdated": "2026-09-12 22:08:30"
 }
