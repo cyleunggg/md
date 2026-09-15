@@ -15,18 +15,18 @@
         "prizeInfo": [
             {
                 "name": "頭獎",
-                "amount": "未公布",
-                "tickets": "未公布"
+                "amount": "$11,730,550",
+                "tickets": "1注中獎"
             },
             {
                 "name": "二獎",
-                "amount": "未公布",
-                "tickets": "未公布"
+                "amount": "$108,130",
+                "tickets": "11.5注中獎"
             },
             {
                 "name": "三獎",
-                "amount": "0",
-                "tickets": "0注中獎"
+                "amount": "$19,200",
+                "tickets": "285注中獎"
             },
             {
                 "name": "四獎",
@@ -194,13 +194,13 @@
     ],
     "upcomingDraws": [
         {
-            "drawNumber": "26/100",
+            "drawNumber": "26/101",
             "drawTitle": "",
-            "drawDate": "2026-09-15",
-            "weekday": "星期二",
-            "estimatedPrize": "$13,000,000",
-            "ticketDeadline": "2026-09-15 21:15"
+            "drawDate": "2026-09-17",
+            "weekday": "星期四",
+            "estimatedPrize": "$8,000,000",
+            "ticketDeadline": "2026-09-17 21:15"
         }
     ],
-    "lastUpdated": "2026-09-15 21:43:21"
+    "lastUpdated": "2026-09-15 23:00:32"
 }
