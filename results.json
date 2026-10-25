@@ -15,38 +15,38 @@
         "prizeInfo": [
             {
                 "name": "頭獎",
-                "amount": "-",
-                "tickets": "-"
+                "amount": "0",
+                "tickets": "沒有中獎注數"
             },
             {
                 "name": "二獎",
-                "amount": "$428,960",
-                "tickets": "4注中獎"
+                "amount": "$428,960.00",
+                "tickets": "4.0注中獎"
             },
             {
                 "name": "三獎",
-                "amount": "$51,700",
+                "amount": "$51,700.00",
                 "tickets": "88.5注中獎"
             },
             {
                 "name": "四獎",
-                "amount": "$9,600",
-                "tickets": "固定派彩"
+                "amount": "$9,600.00",
+                "tickets": "204.0注中獎"
             },
             {
                 "name": "五獎",
-                "amount": "$640",
-                "tickets": "固定派彩"
+                "amount": "$640.00",
+                "tickets": "4,410.3注中獎"
             },
             {
                 "name": "六獎",
-                "amount": "$320",
-                "tickets": "固定派彩"
+                "amount": "$320.00",
+                "tickets": "5,374.6注中獎"
             },
             {
                 "name": "七獎",
-                "amount": "$40",
-                "tickets": "固定派彩"
+                "amount": "$40.00",
+                "tickets": "78,972.0注中獎"
             }
         ]
     },
@@ -202,5 +202,5 @@
             "ticketDeadline": "2026-10-27 21:15"
         }
     ],
-    "lastUpdated": "2026-10-24 22:30:29"
+    "lastUpdated": "2026-10-25 22:46:21"
 }
