@@ -1,56 +1,70 @@
 {
     "latestDraw": {
-        "drawNumber": "26/114",
-        "drawDate": "2026-10-24",
-        "weekday": "星期六",
+        "drawNumber": "26/115",
+        "drawDate": "2026-10-27",
+        "weekday": "星期二",
         "numbers": [
-            "9",
-            "25",
-            "26",
-            "28",
-            "44",
-            "45"
+            "2",
+            "4",
+            "18",
+            "21",
+            "24",
+            "47"
         ],
-        "specialNumber": "20",
+        "specialNumber": "31",
         "prizeInfo": [
             {
                 "name": "頭獎",
-                "amount": "0",
-                "tickets": "沒有中獎注數"
+                "amount": "-",
+                "tickets": "-"
             },
             {
                 "name": "二獎",
-                "amount": "$428,960.00",
-                "tickets": "4.0注中獎"
+                "amount": "$1,110,950",
+                "tickets": "2注中獎"
             },
             {
                 "name": "三獎",
-                "amount": "$51,700.00",
-                "tickets": "88.5注中獎"
+                "amount": "$70,950",
+                "tickets": "83.5注中獎"
             },
             {
                 "name": "四獎",
-                "amount": "$9,600.00",
-                "tickets": "204.0注中獎"
+                "amount": "$9,600",
+                "tickets": "固定派彩"
             },
             {
                 "name": "五獎",
-                "amount": "$640.00",
-                "tickets": "4,410.3注中獎"
+                "amount": "$640",
+                "tickets": "固定派彩"
             },
             {
                 "name": "六獎",
-                "amount": "$320.00",
-                "tickets": "5,374.6注中獎"
+                "amount": "$320",
+                "tickets": "固定派彩"
             },
             {
                 "name": "七獎",
-                "amount": "$40.00",
-                "tickets": "78,972.0注中獎"
+                "amount": "$40",
+                "tickets": "固定派彩"
             }
         ]
     },
     "historyDraws": [
+        {
+            "drawNumber": "26/115",
+            "drawDate": "2026-10-27",
+            "weekday": "星期二",
+            "numbers": [
+                "2",
+                "4",
+                "18",
+                "21",
+                "24",
+                "47"
+            ],
+            "specialNumber": "31"
+        },
         {
             "drawNumber": "26/114",
             "drawDate": "2026-10-24",
@@ -176,31 +190,17 @@
                 "31"
             ],
             "specialNumber": "21"
-        },
-        {
-            "drawNumber": "26/101",
-            "drawDate": "2026-09-17",
-            "weekday": "星期四",
-            "numbers": [
-                "4",
-                "17",
-                "31",
-                "41",
-                "47",
-                "48"
-            ],
-            "specialNumber": "8"
         }
     ],
     "upcomingDraws": [
         {
-            "drawNumber": "26/115",
-            "drawTitle": "",
-            "drawDate": "2026-10-27",
-            "weekday": "星期二",
-            "estimatedPrize": "$20,000,000",
-            "ticketDeadline": "2026-10-27 21:15"
+            "drawNumber": "26/116",
+            "drawTitle": "STE 萬聖節金多寶",
+            "drawDate": "2026-10-31",
+            "weekday": "星期六",
+            "estimatedPrize": "$80,000,000",
+            "ticketDeadline": "2026-10-31 21:15"
         }
     ],
-    "lastUpdated": "2026-10-25 23:44:54"
+    "lastUpdated": "2026-10-29 23:00:37"
 }
